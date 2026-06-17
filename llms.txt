@@ -1,0 +1,10 @@
+# Ozark Webmasters
+
+Ozark Webmasters builds simple websites for small businesses.
+
+## Core pages
+
+- / — Homepage
+- /services.html — Services page
+- /about.html — About page
+- /contact.html — Contact page
